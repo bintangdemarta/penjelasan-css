@@ -25,9 +25,9 @@ Untuk melihat hasil penjelasan dan contoh properti CSS, Anda dapat membuka file 
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [lisensi XYZ]. Lihat file [LICENSE] untuk detail lengkap.
+Proyek ini dilisensikan di bawah [lisensi @bintangdemarta]. Lihat file [LICENSE] untuk detail lengkap.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui email di [email@example.com].
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi saya melalui email di [bintangdemarta@gmail.com].
 
